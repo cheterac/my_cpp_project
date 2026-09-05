@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Update!" << std::endl;
+    std::cout << "New Update!" << std::endl;
     return 0;
 }
